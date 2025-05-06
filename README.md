@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Alonso Vazquez Tena!
 ### Software Engineer in Goodyear, Arizona 🌵
 
-I fell in love with coding in **Fall 2018** during my first computer science class, and my goals are to:
+I fell in love with coding in **Fall 2018** during my first computer science class. My goals are to:
 
 - 🚀 Build **AI-driven solutions** that make a real-world impact  
 - 🤝 Collaborate with teams to turn bold ideas into production-ready software  
