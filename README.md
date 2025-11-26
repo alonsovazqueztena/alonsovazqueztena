@@ -60,4 +60,4 @@ I fell in love with coding in **Fall 2018** during my first computer science cla
 
 ---
 
-### 📝 [Resume](https://docs.google.com/document/d/1dh4FB0gteLgVf5NUq21ruK-tct3wM4pduEf-qKsnDhU/edit?usp=sharing)
+### 📝 [Resume](https://docs.google.com/document/d/1mODxO8M56xlVRrEjFignRdAhBIYG-H6UH13hivrpZ90/edit?usp=sharing)
